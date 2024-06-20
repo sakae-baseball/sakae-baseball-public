@@ -1,0 +1,8 @@
+{
+  "name": "sba",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+    ,"lightbox2": "2.8.1"
+  }
+}
