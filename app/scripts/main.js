@@ -6,7 +6,6 @@
   ga('create', 'UA-90717718-1', 'auto');
   ga('send', 'pageview');
 
-  // GA4 スクリプト
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
